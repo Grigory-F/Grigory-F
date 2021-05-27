@@ -2,7 +2,6 @@
 Hi, My name is **Grigory Farzaliev**, I am interested in everything related to the web. My mind is always open to the study of new technologies Easy to learn and adapt to different situations :muscle: 
 I have specialized professional education in the field of IT 🎓
 **My contacts**
-&nbsp;
 <a href="https://vk.com/gfarzaliev"><img width="100px" src="img/vk.svg"/></a><a href="https://vk.com/gfarzaliev"><img width="100px" src="img/telegram.svg"/></a><a href="https://vk.com/gfarzaliev"><img width="100px" src="img/gmail.svg"/></a>
 ***
 ## ⚡ I use technologies and tools 
