@@ -13,7 +13,7 @@ I have specialized professional education in the field of IT 🎓</p>
 
 ## This is in the process of learning
 
-<img src="https://img.shields.io/badge/Vue-282C34?logo=react&logoColor=61DAFB" alt="Vue logo" title="Vue.js" height="30" />&nbsp;<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30" />&nbsp;<img src="https://img.shields.io/badge/NodeJS-282C34?logo=node&logoColor=blue" alt="node logo" title="node" height="30" />&nbsp;<img src="https://img.shields.io/badge/React Native-282C34?logo=react-native&logoColor=blue" alt="React Native logo" title="React Native" height="30" />
+<img src="https://img.shields.io/badge/Vue-282C34?logo=vue&logoColor=61DAFB" alt="Vue logo" title="Vue.js" height="30" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-282C34?logo=Nuxt&logoColor=764ABC" alt="Nuxt logo" title="Nuxt" height="30" />&nbsp;<img src="https://img.shields.io/badge/NodeJS-282C34?logo=node&logoColor=blue" alt="node logo" title="node" height="30" />
 
 ---
 
