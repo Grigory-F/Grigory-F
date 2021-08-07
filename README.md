@@ -21,7 +21,7 @@ I have specialized professional education in the field of IT 🎓</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grigory-f&repo=chat)](https://github.com/grigory-f/chat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grigory-f&repo=Psyhologies-Ivanova-Navay)](https://github.com/grigory-f/chat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grigory-f&repo=Psy)](https://github.com/grigory-f/chat)
 
 ---
 
