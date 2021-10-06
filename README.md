@@ -23,6 +23,7 @@ I have specialized professional education in the field of IT 🎓</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grigory-f&repo=Psy)](https://github.com/grigory-f/Psy)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grigory-f&repo=weather-and-news)](https://github.com/grigory-f/weather-and-news)
 ---
 
 ## :baby: Amateur projects
